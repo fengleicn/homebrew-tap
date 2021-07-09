@@ -2,9 +2,9 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class DnaCli < Formula
-  desc "You can download by yourself from https://github.com/fengleicn/homebrew-tap/releases/download/0.0.1/dna-cli"
+  desc "You can download by yourself from https://github.com/fengleicn/homebrew-tap/releases/download/dna-cli-0.0.1/dna-cli"
   homepage ""
-  url "https://github.com/fengleicn/homebrew-tap/releases/download/0.0.1/dna-cli"
+  url "https://github.com/fengleicn/homebrew-tap/releases/download/dna-cli-0.0.1/dna-cli"
   sha256 "74d5a8ff67a9a7afe0634802cdb6f8215404e4ea2a4bf2d2127a72c55bf63fa5"
   license "BSD-2-Clause"
 
