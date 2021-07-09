@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class HomebrewTap < Formula
+class DnaCli < Formula
   desc ""
   homepage ""
   url "https://github.com/fengleicn/homebrew-tap/releases/download/dna-cli-0.0.1/dna-cli"
