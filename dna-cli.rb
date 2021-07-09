@@ -5,7 +5,7 @@ class DnaCli < Formula
   desc ""
   homepage ""
   url "https://github.com/fengleicn/homebrew-tap/releases/download/dna-cli-0.0.1/dna-cli"
-  sha256 "e70c76706ea82755689a7f29f737fd6d28dd9874a179a02875a4065291a96f2d"
+  sha256 "cfcd234c191114489fef67d3f653c74786ce1f6bd53d368a4ab41330149fc23b"
   license "BSD-2-Clause"
 
   # depends_on "cmake" => :build
